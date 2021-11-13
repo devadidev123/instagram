@@ -1,0 +1,146 @@
+.parent{
+    display: flex;
+    width: 100%;
+    /* height: 1500px */
+    height: 900px;
+    background-color: #fafafa;
+}
+.left{
+    margin-bottom: -200px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-left: 250px;
+    margin-right: -400px;
+    /* border: 2px solid grey; */
+    width: 50%;
+    
+    
+    height: 800px;
+    /* height: 800px; */
+}
+.right{
+    
+    margin-top: 50px;
+    /* border: 2px solid grey; */
+    width: 45%;
+
+    /* height: 1000px; */
+    margin-left: 25px;
+    height: 700px;
+    
+}
+.first-box{
+    display: inline-block;
+    /* border: 1px solid whitesmoke; */
+    width: 50%;
+    height: 470px;
+    margin-left: -5px;
+    background-color:#fff;
+}
+.insta{
+    padding-left: 50px;
+    /* padding-top: 10px; */
+    margin-top: 80px;
+}
+.second-box{
+    border: 1px solid whitesmoke;
+    width: 45%;
+    height: 40px;
+    margin-left: -4px;
+    margin-top: 2px;
+    background-color: #fff;
+}
+
+.login-button{
+    text-align: center;
+    width: 80%;
+    padding: 0.5rem;
+    border: 1px solid transparent;
+    background-color: #3897f0;
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+  
+
+
+input{
+    height: 40px;
+    width: 80%;
+    margin-top: -40px;
+    align-items: center;
+    margin-left: 30px;
+    background: #fafafa;
+    border-radius: 3px;
+    border: 1px solid #efefef;
+
+}
+
+.separator{
+    display: flex;
+    
+}
+hr{
+    height: 0px;
+    width: 20%;
+    color: #999;
+    background-color: #dbdbdb;
+}
+.fb-login-btn{
+    margin: 1rem;
+    border: 0;
+    cursor: pointer;
+    font-size: 14px;
+    color: #385185;
+    font-weight: 500;
+    background: transparent;
+    margin-left: 100px;
+    margin-top: -20px;    
+}
+.forgot-password{
+    text-decoration: none;
+    color: #999;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 120px;
+}
+.signup{
+   text-decoration: none;
+   color: #3897f0;
+}
+.store{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+   margin-top: 650px;
+   margin-left: -680px;
+   /* border: 1px solid black; */
+   justify-items: auto;
+}
+.footr1 {
+    margin-left: 400px;
+    margin-top: -130px;
+    white-space: normal;
+    color: #999;
+    font-weight: 150px;
+}
+.footr2{
+    margin-left: 500px;
+    margin-top: -10px;
+    white-space: normal;
+    color: #999;
+    font-weight: 150px;
+}
+.footr3{
+    margin-left:600px;
+    margin-top: -2px;
+    white-space: normal;
+    color: #999;
+    font-weight: 150px
+}
+
+     
+
+    
